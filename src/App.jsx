@@ -16,7 +16,7 @@ import SprintPlanning from "./components/grupo-empresa/SprintPlanning";
 import ProductBacklog from "./components/grupo-empresa/ProductBacklog";
 import InfoGrupoEmpresa from "./page_docente/InfoGrupoEmpresa";
 
-import "./app.css";
+import './app.css';
 import PreviaEmpresas from "./page_docente/PreviaEmpresas";
 import Cloudinary from "./components/Cloudinary";
 import InfoEmpresa from "./page_estudiante/InfoEmpresa";
